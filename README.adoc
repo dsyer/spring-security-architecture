@@ -520,7 +520,7 @@ the `Executor` is of the correct type:
 
 [source,java]
 ----
-@Confiuration
+@Configuration
 public class ApplicationConfiguration extends AsyncConfigurerSupport {
 
   @Override
